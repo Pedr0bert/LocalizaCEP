@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalizaCEP</string>
+    <string name="header_title">Buscador de CEP</string>
+    <string name="header_subtitle">Informe o CEP desejado para consultar o endereço completo via ViaCEP.</string>
+    <string name="action_settings">Configurações</string>
+    <string name="hint_cep">Digite o CEP (ex: 01001-000)</string>
+    <string name="btn_search">Buscar CEP</string>
+    <string name="btn_history">Ver Histórico</string>
+    <string name="title_result">Endereço Encontrado</string>
+    <string name="label_cep">CEP:</string>
+    <string name="label_logradouro">Logradouro:</string>
+    <string name="label_bairro">Bairro:</string>
+    <string name="label_cidade_uf">Cidade / UF:</string>
+    <string name="label_ddd">DDD:</string>
+    <string name="title_history">Histórico de Buscas</string>
+    <string name="empty_history">Nenhum CEP buscado ainda.</string>
+    <string name="action_history">Histórico</string>
+    <string name="action_clear_history">Limpar Histórico</string>
+    <string name="toast_invalid_cep">Por favor, digite um CEP válido com 8 dígitos.</string>
+    <string name="toast_cep_not_found">CEP não encontrado na base do ViaCEP.</string>
+    <string name="toast_network_error">Erro de conexão ao buscar o CEP.</string>
+    <string name="toast_history_cleared">Histórico de buscas limpo!</string>
+    <string name="toast_search_error">Erro ao processar a busca do CEP.</string>
+    <string name="searching">Buscando CEP no ViaCEP...</string>
+</resources>
